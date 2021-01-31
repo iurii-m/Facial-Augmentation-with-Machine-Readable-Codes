@@ -1,0 +1,9 @@
+models/10
+setting_up.txt
+junk.py
+data
+.coverage
+.vscode
+.pytest_cache
+__pycache__
+*.local
